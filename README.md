@@ -1,3 +1,4 @@
 # learning-demo
-this is my repository
+This is my Git Repository.
+<br>
 Author - Tanu Awasthi
